@@ -6,3 +6,6 @@ I'm recently learning HTML and CSS and am building some project with those skill
 🥱 I'm a lover of soccer ⚽ and being on my phone 📱
 
 ✨: When im not coding, you'll find me on my phone or playing football,watching or playing video games, and last of it i find it interesting to mediate in my luxury times(relaxing)😊.
+
+## Languages I'm currently learning
+💖 HTML ♠️ CSS 🥇 JAVASCRIPT
